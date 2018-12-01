@@ -4,16 +4,16 @@ If you are located outside United States and choose to provide information to us
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-SuperQRCode will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+SuperRocket will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 Disclosure Of Data
 
 Legal Requirements
 
-SuperQRCode may disclose your Personal Data in the good faith belief that such action is necessary to:
+SuperRocket may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 To comply with a legal obligation
-To protect and defend the rights or property of SuperQRCode
+To protect and defend the rights or property of SuperRocket
 To prevent or investigate possible wrongdoing in connection with the Service
 To protect the personal safety of users of the Service or the public
 To protect against legal liability
